@@ -17,25 +17,25 @@
         {
           "items": [
             {
-              "type": "label",
-              "text": "CLARITY",
+              "type": "vertical",
               "style": {
-                "align": "center",
-                "font": "HelveticaNeue-Bold",
-                "size": "50",
-                "color": "#ffffff",
-              }
-            }
-          ]
-        },
-        {
-          "type": "vertical",
-          "style": {
-            "padding": "30",
-            "spacing": "20",
-            "align": "center"
-          },
-          "components": [
+                "padding": "30",
+                "spacing": "20",
+                "align": "center"
+              },
+              "components": [
+                {
+                  "type": "label",
+                  "text": "CLARITY",
+                  "style": {
+                    "align": "center",
+                    "font": "HelveticaNeue-Bold",
+                    "size": "50",
+                    "color": "#ffffff",
+                  }
+                }
+              ]
+            },
             {
               "type": "label",
               "text": "Welcome to the CLARITY Academy app",
