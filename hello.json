@@ -10,7 +10,7 @@
     },
     "body": {
       "style": {
-        "background": "#ffffff",
+        "background": "#800080",
         "border": "none"
       },
       "sections": [
@@ -30,7 +30,8 @@
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
-                    "size": "18"
+                    "size": "18",
+                    "color": "#ffffff"
                   }
                 },
                 {
@@ -40,16 +41,18 @@
                     "align": "center",
                     "font": "Courier",
                     "padding": "30",
-                    "size": "14"
+                    "size": "16",
+                    "color": "#ffffff"
                   }
                 },
                 {
                   "type": "label",
-                  "text": "CLARITY&reg;",
+                  "text": "CLARITY",
                   "style": {
                     "align": "center",
                     "font": "HelveticaNeue-Bold",
-                    "size": "50"
+                    "size": "50",
+                    "color": "#ffffff"
                   }
                 }
               ]
@@ -61,12 +64,13 @@
                 "padding": "10",
                 "color": "#000000",
                 "font": "HelveticaNeue",
-                "size": "12"
+                "size": "16"
               },
-              "text": "Membership Login",
+              "text": "Membership login",
               "href": {
                 "url": "https://www.clarityacademy.co/login",
-                "view": "Web"
+                "view": "Web",
+                "color": "#ffffff"
               }
             },
             {
@@ -76,7 +80,8 @@
                 "padding": "10",
                 "color": "#000000",
                 "font": "HelveticaNeue",
-                "size": "12"
+                "size": "16",
+                "color": "#ffffff"
               },
               "text": "Go to jamiesmart.com",
               "href": {
