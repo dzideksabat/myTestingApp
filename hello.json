@@ -63,21 +63,6 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "Check out Live DEMO",
-              "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/demo.json",
-                "fresh": "true"
-              }
-            },
-            {
-              "type": "label",
-              "style": {
-                "align": "right",
-                "padding": "10",
-                "color": "#000000",
-                "font": "HelveticaNeue",
-                "size": "12"
-              },
               "text": "Login to CA here",
               "href": {
                 "url": "https://www.clarityacademy.co",
@@ -93,9 +78,9 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "View documentation",
+              "text": "Go to jamiesmart.com",
               "href": {
-                "url": "https://jasonette.github.io/documentation",
+                "url": "https://www.jamiesmart.com",
                 "view": "Web"
               }
             }
