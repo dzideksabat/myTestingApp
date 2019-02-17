@@ -17,45 +17,46 @@
         {
           "items": [
             {
-              "type": "vertical",
+              "type": "label",
+              "text": "CLARITY",
               "style": {
+                "align": "center",
+                "font": "HelveticaNeue-Bold",
+                "size": "50",
+                "color": "#ffffff",
+                "margin-bottom": "40"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vertical",
+          "style": {
+            "padding": "30",
+            "spacing": "20",
+            "align": "center"
+          },
+          "components": [
+            {
+              "type": "label",
+              "text": "Welcome to the CLARITY Academy app",
+              "style": {
+                "align": "center",
+                "font": "Courier-Bold",
+                "size": "18",
+                "color": "#ffffff"
+              }
+            },
+            {
+              "type": "label",
+              "text": "This is the first version of our app. We hope you'll enjoy it.",
+              "style": {
+                "align": "center",
+                "font": "Courier",
                 "padding": "30",
-                "spacing": "20",
-                "align": "center"
-              },
-              "components": [
-                {
-                  "type": "label",
-                  "text": "Welcome to the CLARITY Academy app",
-                  "style": {
-                    "align": "center",
-                    "font": "Courier-Bold",
-                    "size": "18",
-                    "color": "#ffffff"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "This is the first version of our app. We hope you'll enjoy it.",
-                  "style": {
-                    "align": "center",
-                    "font": "Courier",
-                    "padding": "30",
-                    "size": "16",
-                    "color": "#ffffff"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "CLARITY",
-                  "style": {
-                    "align": "center",
-                    "font": "HelveticaNeue-Bold",
-                    "size": "50",
-                    "color": "#ffffff"
-                  }
-                }
-              ]
+                "size": "16",
+                "color": "#ffffff"
+              }
             },
             {
               "type": "label",
